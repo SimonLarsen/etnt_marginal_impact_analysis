@@ -1,2 +1,3 @@
-# etnt_marginal_impact_analysis
-Code for Energy Track &amp; Trace quantitative analysis of the marginal impact on power system dispatch
+# Energy Track & Trace marginal impact analysis
+
+Code for estimating Energy Track & Trace's marginal impact on power system dispatch.
