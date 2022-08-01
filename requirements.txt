@@ -3,3 +3,4 @@ openpyxl
 plotnine
 scikit-misc
 pyyaml
+pyomo

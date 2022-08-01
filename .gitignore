@@ -1,0 +1,7 @@
+data/*
+output/*
+*.amltmp
+.amlignore
+*.swp
+.ipynb_aml_checkpoints/*
+.ipynb_checkpoints/*
